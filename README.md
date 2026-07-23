@@ -1,3 +1,5 @@
+<img width="1039" height="200" alt="image" src="https://github.com/user-attachments/assets/72e53a00-9f6f-4a3d-a6d4-65b0896e081a" />
+
 # 🖥️ SysPulse: Real-Time Windows Diagnostics Tool
 
 A lightweight, cross-platform desktop application built to monitor, analyze, and display critical Windows hardware and peripheral metrics in real time.
