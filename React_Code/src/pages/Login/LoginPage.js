@@ -322,13 +322,13 @@ const LoginPage = () => {
 					className={`text-muted m-0 mt-4`}
 					variants={itemVariants}
 				>
-					Powered By
+					<div style={{padding:'10px', color:'blue'}}>Powered By : tarunverse.tech</div>
 				</motion.p>
 				<motion.p
 					className={`text-primary m-0`}
 					variants={itemVariants}
 				>
-					Tarun Bharti
+					 
 				</motion.p>
 			</motion.div>
 		</div>
