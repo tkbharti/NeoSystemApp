@@ -12,7 +12,7 @@ export default function Footer() {
         fontWeight:"bold"
       }}
     >
-      Powered By Tarun Bharti
+      Powered By : tarunverse.tech
     </footer>
   );
 }
