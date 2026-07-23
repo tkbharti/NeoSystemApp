@@ -43,10 +43,23 @@ npm i
 npm run dist
 
 
-### Home Page
+# Login Page
 
-<img width="947" height="494" alt="image" src="https://github.com/user-attachments/assets/cfd1869f-1a91-4dd7-8cee-6436b8c23806" />
+<img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/3020beda-2e16-46e4-8bac-597317f50f6e" />
 
-### Dashboard
 
-<img width="958" height="502" alt="image" src="https://github.com/user-attachments/assets/d4454225-f034-4b1d-9e83-49b0d2e58f26" />
+# Dashboard Page
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/121e301b-ccd1-432a-8c14-c328402832f4" />
+
+
+# Processes Page
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a45024b0-f390-476a-81d1-a74aaa715cb0" />
+
+
+# Network Page
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3e8dbf2d-15f4-4be0-aa38-59fc63fabf92" />
+
+
