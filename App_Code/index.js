@@ -51,7 +51,8 @@ server.listen(port, () => {
 	console.log(`API Server is connected and running on port number: ${port}`); 
  });
 
- 
+ ///////////////  open this code to create exe /////////////////////
+/*
 const { app, BrowserWindow, Menu } = require('electron');
 const isDev = require('electron-is-dev');
 
@@ -118,3 +119,4 @@ app.on('activate', function () {
     createWindow();
   }
 });  
+*/
