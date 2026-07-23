@@ -26,14 +26,14 @@ Leverages asynchronous system calls, low-level OS utilities, and automated Power
 
 ## Distribution (Electron Builder): 
 Compiles and packages production-ready, standalone .exe installers optimized for Windows environments.
-
  
 
 ### To start the app use following command -> Go to App directory
 
 npm i
 
-npm run start
+npm start -  for web
+nodemon index.js - for node 
 
 
 ### To create .exe use following command
