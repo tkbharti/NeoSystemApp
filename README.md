@@ -30,17 +30,17 @@ Compiles and packages production-ready, standalone .exe installers optimized for
 
 ### To start the app use following command -> Go to App directory
 
-npm i
-
-npm start -  for web
-nodemon index.js - for node 
+- npm i
+- npm start -  for web
+- nodemon index.js - for node 
 
 
 ### To create .exe use following command
 
-npm i
-
-npm run dist
+- npm i
+- go to App_Code/index.js file.
+- uncomment from line 55 to 122 and save it.
+- npm run dist
 
 
 # Login Page
