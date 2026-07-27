@@ -1,0 +1,34 @@
+import { createContext, useEffect } from "react";
+import socket from "../services/socket";
+
+export const SocketContext = createContext(socket);
+
+const SocketProvider = ({ children }) => {
+
+    useEffect(() => {
+
+        socket.connect();
+
+        socket.on("connect", () => {
+            console.log("Connected :", socket.id);
+        });
+
+        socket.on("disconnect", () => {
+            console.log("Disconnected");
+        });
+
+        return () => {
+            socket.disconnect();
+        };
+
+    }, []);
+
+    return (
+        <SocketContext.Provider value={socket}>
+            {children}
+        </SocketContext.Provider>
+    );
+
+}
+
+export default SocketProvider;
