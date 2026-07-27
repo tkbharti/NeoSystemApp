@@ -62,7 +62,7 @@ server.listen(port, () => {
 	console.log(`API Server is connected and running on port number: ${port}`); 
  });
 
-
+/*
 const { app, BrowserWindow, Menu } = require('electron');
 const isDev = require('electron-is-dev');
 
@@ -129,3 +129,4 @@ app.on('activate', function () {
     createWindow();
   }
 });
+*/
